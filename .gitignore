@@ -1,0 +1,6 @@
+*venv*
+.vscode
+*.pdf
+!requirements.txt
+*.not
+*.bak
